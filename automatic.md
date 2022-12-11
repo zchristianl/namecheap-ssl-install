@@ -5,7 +5,7 @@ For installing or renewing SSL certificates via the Namecheap SSL cPanel plugin.
 ![1 - cpanelhome](https://user-images.githubusercontent.com/6568643/206921495-a3569be5-76ab-4cd2-9800-a6628972c6af.png)  
 <br>
 
-2. Locate the appropriate name from the list and select Install or Renew, whichever is applicable.
+2. Locate the appropriate name from the list and select `Install` or `Renew`, whichever is applicable.
 ![install screen](https://user-images.githubusercontent.com/6568643/206922392-8a58a234-9b20-4cd7-a47c-a113ea1665f2.png)
 🟨 If the desired domain is not listed, check to make sure you're on the correct hosting package for the domain.  
 <br>
@@ -27,5 +27,5 @@ For installing or renewing SSL certificates via the Namecheap SSL cPanel plugin.
 <br>
 
 7. Revisit the `Installed via "Namecheap SSL"` after some time to ensure that the installation was successful.
-![7 - ssl cert installed](https://user-images.githubusercontent.com/6568643/206921554-a3559287-3242-4024-8581-142d8f34b09c.png)
+![finished](https://user-images.githubusercontent.com/6568643/206922579-5ffbac94-2061-4b19-b469-338a88221de4.png)
 <br>
