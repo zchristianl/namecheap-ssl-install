@@ -53,13 +53,13 @@ For generating a CSR, issuing a certificate and installing it via the SSL module
 ![go to ssl](https://user-images.githubusercontent.com/6568643/206797720-9fb327cf-9522-4cee-9192-1f9224d5650a.png)  
 <br>
 
-1.    Locate the appropriate domain and select the `Update Certificate` link.
+13.    Locate the appropriate domain and select the `Update Certificate` link.
 ![9 - SSL Hosts](https://user-images.githubusercontent.com/6568643/206921831-8a5747be-50b7-4d68-a6f3-f958ff00ec5b.png)
 <br>
 
-1.    Paste the certificate, private key and CA bundle into their respective boxes and click `Install Certificate`.
+14.    Paste the certificate, private key and CA bundle into their respective boxes and click `Install Certificate`.
 ![10 - paste in values](https://user-images.githubusercontent.com/6568643/206921285-e3429448-177d-4c6c-8cd2-1756f5f73070.png)  
 <br>
 
-1.   If installation was successful, a success message will appear.
+15.   If installation was successful, a success message will appear.
 ![11 - success](https://user-images.githubusercontent.com/6568643/206921293-5b0b2d9b-c26a-49e1-894b-fef048691e9c.png)
