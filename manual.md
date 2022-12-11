@@ -61,5 +61,5 @@ For generating a CSR, issuing a certificate and installing it via the SSL module
 ![10 - paste in values](https://user-images.githubusercontent.com/6568643/206921285-e3429448-177d-4c6c-8cd2-1756f5f73070.png)  
 <br>
 
-15.   If installation was successful, a success message will appear.
+15.   If installation was successful, a success message will appear.  
 ![11 - success](https://user-images.githubusercontent.com/6568643/206921293-5b0b2d9b-c26a-49e1-894b-fef048691e9c.png)
