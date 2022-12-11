@@ -1,13 +1,13 @@
 # Automatic SSL Installation
 For installing or renewing SSL certificates via the Namecheap SSL cPanel plugin.
 
-1. Select the Namecheap SSL app from cPanel
+1. Select the Namecheap SSL app from cPanel.
 ![1 - cpanelhome](https://user-images.githubusercontent.com/6568643/206921495-a3569be5-76ab-4cd2-9800-a6628972c6af.png)  
 <br>
 
 2. Locate the appropriate name from the list and select `Install` or `Renew`, whichever is applicable.
 ![install screen](https://user-images.githubusercontent.com/6568643/206922392-8a58a234-9b20-4cd7-a47c-a113ea1665f2.png)
-🟨 If the desired domain is not listed, check to make sure you're on the correct hosting package for the domain.  
+🟨 If the desired domain is not listed, check to make sure you're on the correct hosting package. 
 <br>
 
 3. Select the primary domain from the list. In most cases, this is the domain without `www` prepended.

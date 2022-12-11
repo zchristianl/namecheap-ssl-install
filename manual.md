@@ -3,7 +3,7 @@ For generating a CSR, issuing a certificate and installing it via the SSL module
 
 🟨 Note: This method is less convenient. Use the [Automatic SSL Installation](automatic.md) whenever possible.
 
-1. In cPanel, open the "SSL/TLS" app.
+1. In cPanel, open the `SSL/TLS` app.
 ![0 - native ssl app](https://user-images.githubusercontent.com/6568643/206796385-e6974fb7-15e1-444c-8bf0-c53669353620.png)    
 <br>
 
