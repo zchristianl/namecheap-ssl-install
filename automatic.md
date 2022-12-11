@@ -6,12 +6,12 @@ For installing or renewing SSL certificates via the Namecheap SSL cPanel plugin.
 <br>
 
 2. Locate the appropriate name from the list and select Install or Renew, whichever is applicable.
-![2 - pick domain](https://user-images.githubusercontent.com/6568643/206921456-71c28b9e-df80-4eec-ae74-8539c593f139.png)
+![install screen](https://user-images.githubusercontent.com/6568643/206922392-8a58a234-9b20-4cd7-a47c-a113ea1665f2.png)
 🟨 If the desired domain is not listed, check to make sure you're on the correct hosting package for the domain.  
 <br>
 
 3. Select the primary domain from the list. In most cases, this is the domain without `www` prepended.
-![3 - pick from list](https://user-images.githubusercontent.com/6568643/206921505-d03f58c9-6711-4e29-a487-6f68f4c5fdfc.png)
+![3 - pick from list](https://user-images.githubusercontent.com/6568643/206922432-2df47a59-e5ee-4161-afee-33ec4570d5b1.png)
 <br>
 
 4. Acknowledge the SSL warning. 
@@ -23,7 +23,7 @@ For installing or renewing SSL certificates via the Namecheap SSL cPanel plugin.
 <br>
 
 6. The SSL installation will complete within in a few minutes.
-![6 - success](https://user-images.githubusercontent.com/6568643/206921552-81a19169-549c-45b4-9448-95393de8720e.png) 
+![install pending](https://user-images.githubusercontent.com/6568643/206922353-9d6a49f8-2476-4b66-b97d-1ab57addd480.png)
 <br>
 
 7. Revisit the `Installed via "Namecheap SSL"` after some time to ensure that the installation was successful.
