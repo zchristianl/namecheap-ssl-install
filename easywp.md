@@ -27,8 +27,8 @@ For generating a CSR, private key and installing it to an EasyWP account.
 
 <br>
 
-6. Add the `www` subdomain as an alternate name for good measure.
-![image](https://github.com/zchristianl/namecheap-ssl-install/assets/6568643/19786d0a-5726-4202-b635-2d1c0cddd1e1)
+6. Add the `www` subdomain as an alternate name for good measure.<br>
+![image](https://github.com/zchristianl/namecheap-ssl-install/assets/6568643/19786d0a-5726-4202-b635-2d1c0cddd1e1) 
 
 <br>
 
