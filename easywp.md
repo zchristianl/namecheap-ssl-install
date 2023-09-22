@@ -22,7 +22,7 @@ For generating a CSR, private key and installing it to an EasyWP account.
 
 <br>
 
-1. You will need a CSR and private key to continue. You can use the [Namecheap CSR Generator](https://decoder.link/csr_generator) to generate this information.
+5. You will need a CSR and private key to continue. You can use the [Namecheap CSR Generator](https://decoder.link/csr_generator) to generate this information.
 ![msedge_EGdeH2MyQN](https://github.com/zchristianl/namecheap-ssl-install/assets/6568643/89a21e59-15b2-4aa6-a2f6-993a002e20a7)
 
 <br>
