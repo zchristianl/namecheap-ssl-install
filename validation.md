@@ -11,5 +11,6 @@ To validate that the SSL installation was successful. This validation method may
 
 3. Locate your domain in the list of certificates. The expiration date should reflect that of the newly-installed certificate.
 ![3 - cert list](https://user-images.githubusercontent.com/6568643/206798640-760dc48b-8be2-4854-8182-8d0bece2c198.png)
-🔵 If the certificate was installed via the Namecheap SSL app, you may further validate by locating the number in the `Description` column of the certificates table. Compare this number with the corresponding certificate in your [list of SSL certificates](https://ap.www.namecheap.com/ProductList/SslCertificates) in Namecheap.  
+> [!NOTE]
+> If the certificate was installed via the Namecheap SSL app, you may further validate by locating the number in the `Description` column of the certificates table. Compare this number with the corresponding certificate in your [list of SSL certificates](https://ap.www.namecheap.com/ProductList/SslCertificates) in Namecheap.  
 <br>
