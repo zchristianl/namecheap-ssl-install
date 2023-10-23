@@ -7,7 +7,8 @@ For installing or renewing SSL certificates via the Namecheap SSL cPanel plugin.
 
 2. Locate the appropriate name from the list and select `Install` or `Renew`, whichever is applicable.
 ![install screen](https://user-images.githubusercontent.com/6568643/206922392-8a58a234-9b20-4cd7-a47c-a113ea1665f2.png)
-🟨 If the desired domain is not listed, check to make sure you're on the correct hosting package. 
+> [!WARNING]
+> If the desired domain is not listed, check to make sure you're on the correct hosting package. 
 <br>
 
 3. Select the primary domain from the list. In most cases, this is the domain without `www` prepended.

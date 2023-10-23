@@ -36,18 +36,19 @@ For generating a CSR, private key and installing it to an EasyWP account.
 
 <br>
 
-🟨 Make a note of the RSA private key. This is required for installation, and you will not be able to retrieve this later.
+> [!WARNING]
+> Make a note of the RSA private key. This is required for installation, and you will not be able to retrieve this later.
+
+<br>
+> [!IMPORTANT]
+> Do not use the self-signed certificate provided by this tool for installation. Follow steps 5-11 of the [Manual SSL Installation](manual.md) guide to properly issue the certificate. 
 
 <br>
 
-8. 🛑 Do not use the self-signed certificate provided by this tool for installation. Follow steps 5-11 of the [Manual SSL Installation](manual.md) guide to properly issue the certificate. 
-
-<br>
-
-9. Copy and paste the Private Key, Certificate and CA Bundle. Click `Change` to install the certificate.
+8. Copy and paste the Private Key, Certificate and CA Bundle. Click `Change` to install the certificate.
 ![5 add in cert](https://github.com/zchristianl/namecheap-ssl-install/assets/6568643/59bd6984-04c1-43d3-bf0d-a6fbc727b568)
 
 <br>
 
-10. Click the toggle switch to activate the certificate.
+9. Click the toggle switch to activate the certificate.
 ![6 - make active](https://github.com/zchristianl/namecheap-ssl-install/assets/6568643/d31c3b8e-ecc9-408a-b177-149c719fbea5)

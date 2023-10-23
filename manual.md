@@ -1,7 +1,8 @@
 # Manual SSL Installation
 For generating a CSR, issuing a certificate and installing it via the SSL module in cPanel. 
 
-🟨 Note: This method is less convenient. Use the [Automatic SSL Installation](automatic.md) whenever possible.
+> [!WARNING]
+> Note: This method is less convenient. Use the [Automatic SSL Installation](automatic.md) whenever possible.
 
 1. In cPanel, open the `SSL/TLS` app.
 ![0 - native ssl app](https://user-images.githubusercontent.com/6568643/206796385-e6974fb7-15e1-444c-8bf0-c53669353620.png)    
@@ -13,12 +14,14 @@ For generating a CSR, issuing a certificate and installing it via the SSL module
 
 3. Complete the required information to generate a CSR.
 ![1 - generate csr](https://user-images.githubusercontent.com/6568643/206796387-fa40d5d6-1069-4d71-9423-12d6b0c9365a.png)  
-🔵 Some certificates allow you to protect the `www` subdomain at no additional cost. Be sure to use the base domain as your primary domain, and the `www` subdomain as secondary.  
+> [!NOTE]
+> Some certificates allow you to protect the `www` subdomain at no additional cost. Be sure to use the base domain as your primary domain, and the `www` subdomain as secondary.  
 <br>
 
 4. The CSR will be generated. 
 ![2 - generated](https://user-images.githubusercontent.com/6568643/206796390-fa9be33c-caea-4a22-aec8-3d57997e45dd.png)  
-🟨 Make a note of the RSA private key. This is required for installation, and you will not be able to retrieve this later.  
+> [!WARNING]
+> Make a note of the RSA private key. This is required for installation, and you will not be able to retrieve this later.  
 <br>
 
 5. Locate the SSL certificate in Namecheap and select `Activate` or `Renew`, whichever is applicable.
